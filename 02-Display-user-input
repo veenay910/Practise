@@ -1,0 +1,6 @@
+#!/bin/bash
+
+#You can take the user input with read command and store it in a variable
+
+read num
+echo "$num"
