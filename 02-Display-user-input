@@ -4,3 +4,6 @@
 
 read num
 echo "$num"
+
+read age
+echo "Enter the age $age"
