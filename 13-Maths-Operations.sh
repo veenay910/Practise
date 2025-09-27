@@ -6,4 +6,4 @@
 read -p "first value is: " X
 read -p "second value is " Y
 
-echo "Addition: (($X+$Y))"  
+echo "Addition: $(($X+$Y))  "  
