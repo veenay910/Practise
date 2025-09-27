@@ -24,4 +24,4 @@
 
 read -p "Enter the variable name: " var
 
-echo "${var}"
+echo "${!var}"
