@@ -7,6 +7,6 @@
 state=AP
 country=India
 
-info "{$state} {$country}"
+info= "{$state} {$country}"
 
 echo "$info"
