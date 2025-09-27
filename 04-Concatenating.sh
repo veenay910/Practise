@@ -29,4 +29,4 @@ echo "-------------------------------------------"
 echo "enter the school name:"
 
 read school
-echo "$school"
+echo "the school name is $school"
