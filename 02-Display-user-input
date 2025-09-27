@@ -10,12 +10,5 @@ echo "------------------------------------"
 echo "what is your name:"
 read name
 
-echo "Enter the age $age"
-
-read name
-echo "what is your name $name  "
-
-
-
-read num
-echo “The number is: $num”
+echo "Enter the age:"
+read age
