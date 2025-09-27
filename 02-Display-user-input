@@ -5,6 +5,8 @@
 read num
 echo "$num"
 
-
-echo "Enter the age $age"
 read age
+echo "Enter the age $age"
+
+read name
+echo "what is your name $name"
