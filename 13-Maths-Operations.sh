@@ -6,4 +6,7 @@
 read -p "first value is: " X
 read -p "second value is " Y
 
-echo "Addition: $(($X+$Y))  "  
+echo "Addition: $(($X+$Y))"  
+echo "Sub: $(($X-$Y))"  
+echo "Mul: $(($X*$Y))"  
+echo "Div: $(($X/$Y))"  
