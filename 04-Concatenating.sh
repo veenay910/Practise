@@ -1,6 +1,6 @@
 #!/bin/bash
 
-Concatenating multiple vriables
+#Concatenating multiple vriables
 # To concatenate multiple varibles and store them into a single variable, enclose them with a "" and 
 # write the variable with in {} consecutively
 
