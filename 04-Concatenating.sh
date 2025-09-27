@@ -24,6 +24,9 @@ echo "class = $class"
 
 echo "-------------------------------------------"
 
-read school
 
-echo "enter the school name $school"
+
+echo "enter the school name:"
+
+read school
+echo "$school"
