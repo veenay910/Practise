@@ -21,3 +21,9 @@ echo "Enter the class name:" $2
 
 echo "school = $school"
 echo "class = $class"
+
+echo "-------------------------------------------"
+
+read school
+
+echo "enter the school name $school"
