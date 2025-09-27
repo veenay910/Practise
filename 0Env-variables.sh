@@ -1,5 +1,4 @@
 #1/bin/bash
-
 Here is a list of commonly used environment variables in Linux: 
 USER: The username of the currently logged-in user.
 HOME: The path to the current user's home directory.
