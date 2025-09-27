@@ -28,4 +28,4 @@ echo "-------------------------------------------"
 
 echo "enter the school name:" 
 read -p "Enter the school name" school
-echo "the school name is $school"
+
